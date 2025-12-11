@@ -1,0 +1,303 @@
+﻿record_index,website,type,chart_type,chart_type_derived,chart_design_feature,chart_interaction_feature,interaction_level,repetition,chart_annotations,data_points,data_source,n_data_sources,creator_complexity
+1,https://baizhankyzy.github.io/female-directors/,chart section,line,line,,,0,no,,30.0,Wikidata;IMDb,2,6.5
+1,https://baizhankyzy.github.io/female-directors/,chart section,bar,grouped bar,multibar,,0,no,,6.0,Wikidata;IMDb,2,6.5
+1,https://baizhankyzy.github.io/female-directors/,chart section,map,map_complex,heatmap,zoom,2,no,,3000.0,Wikidata;IMDb,2,12.5
+1,https://baizhankyzy.github.io/female-directors/,chart section,doughnut,doughnut,,,0,yes,higher value,22.0,Wikidata;IMDb,2,3.15
+1,https://baizhankyzy.github.io/female-directors/,chart section,bar,stacked bar,stack,,0,no,,21.0,Wikidata;IMDb,2,8.5
+2,https://nicoleliggeri.github.io/Italy-in-Magazienes/,chart section,map,map_complex,pin;heatmap,scrollytelling;zoom;on-demand;link,3,no,,100.0,CIRCE(Catalogo Informatico Riviste Culturali Europee);ACNP(Archivio collettivo nazionale dei periodici),2,13.5
+2,https://nicoleliggeri.github.io/Italy-in-Magazienes/,chart section,bar,bar,,,0,no,,110.0,CIRCE(Catalogo Informatico Riviste Culturali Europee);ACNP(Archivio collettivo nazionale dei periodici);Wikidata,3,4.5
+2,https://nicoleliggeri.github.io/Italy-in-Magazienes/,chart section,line,multiline line,multiline,filters,2,yes,,110.0,CIRCE(Catalogo Informatico Riviste Culturali Europee);ACNP(Archivio collettivo nazionale dei periodici);Wikidata,3,5.949999999999999
+2,https://nicoleliggeri.github.io/Italy-in-Magazienes/,chart section,pie,pie,,,0,no,,2.0,CIRCE(Catalogo Informatico Riviste Culturali Europee);ACNP(Archivio collettivo nazionale dei periodici);Wikidata,3,4.5
+2,https://nicoleliggeri.github.io/Italy-in-Magazienes/,chart section,line,line,,,0,no,,110.0,CIRCE(Catalogo Informatico Riviste Culturali Europee);ACNP(Archivio collettivo nazionale dei periodici);Wikidata,3,6.5
+3,https://alicepicco333.github.io/culture4all/,chart section,map,map_complex,heatmap,,0,no,,5000.0,Luoghi della cultura,1,10.5
+3,https://alicepicco333.github.io/culture4all/,chart section,pie,pie,,filters,2,no,,8.0,Luoghi della cultura,1,6.5
+3,https://alicepicco333.github.io/culture4all/,chart section,map,map_simple,pin,filters;zoom,2,no,,200.0,Luoghi della cultura,1,8.5
+3,https://alicepicco333.github.io/culture4all/,chart section,bar,bar,,filters,2,no,,20.0,Luoghi della cultura,1,6.5
+3,https://alicepicco333.github.io/culture4all/,chart section,line,multiline line,multiline,filters,2,no,,25.0,Luoghi della cultura,1,8.5
+4,https://falaimo99.github.io/infoviz/website/index.html,chart section,bar,bar,,,0,no,,10.0,Wikidata,1,4.5
+4,https://falaimo99.github.io/infoviz/website/index.html,chart section,line,multiline line,multiline,filters,2,no,,45.0,Wikidata,1,8.5
+4,https://falaimo99.github.io/infoviz/website/index.html,chart section,pie,pie,,filters,2,yes,,6.0,Wikidata,1,4.55
+4,https://falaimo99.github.io/infoviz/website/index.html,chart section,gantt,gantt,,,0,no,,10.0,Wikidata,1,8.5
+4,https://falaimo99.github.io/infoviz/website/index.html,chart section,bar,grouped bar,multibar,,0,no,,35.0,Wikidata,1,6.5
+4,https://falaimo99.github.io/infoviz/website/index.html,chart section,bar,grouped bar,multibar,filters,2,yes,,16.0,Wikidata,1,5.949999999999999
+5,https://giorgiacrosilla.github.io/reputationera/,chart section,bar,bar,,,0,no,focus value,12.0,Blouin Art Sales Index,1,4.5
+5,https://giorgiacrosilla.github.io/reputationera/,chart section,treemap,treemap,,,0,no,,2.0,de Kooning Foundation;BnF(Bibliothèque nationale de France); Google Books API,3,8.5
+5,https://giorgiacrosilla.github.io/reputationera/,chart section,doughnut,doughnut,comparison,,0,yes,,2.0,de Kooning Foundation;BnF(Bibliothèque nationale de France); Google Books API,3,4.199999999999999
+5,https://giorgiacrosilla.github.io/reputationera/,chart section,line,multiline line,multiline,,0,no,,22.0,Blouin Art Sales Index,1,6.5
+5,https://giorgiacrosilla.github.io/reputationera/,chart section,bubble,bubble,comparison;trendline,zoom;quiz,3,no,,62.0,Blouin Art Sales Index,1,12.5
+5,https://giorgiacrosilla.github.io/reputationera/,chart section,bar,grouped bar,multibar,,0,no,,109.0,de Kooning Foundation;BnF(Bibliothèque nationale de France); Google Books API,3,6.5
+5,https://giorgiacrosilla.github.io/reputationera/,chart section,line,multiline line,multiline,,0,no,,72.0,de Kooning Foundation;BnF(Bibliothèque nationale de France); Google Books API,3,6.5
+6,https://pauliussekliuckis.wixsite.com/renaissance-data-pro,chart section,bar,bar,comparison,,0,no,,13.0,Web Gallery of Art,1,6.0
+6,https://pauliussekliuckis.wixsite.com/renaissance-data-pro,chart section,bar,bar,,,0,yes,count,11.0,Web Gallery of Art,1,3.15
+6,https://pauliussekliuckis.wixsite.com/renaissance-data-pro,chart section,card,card_rich,image;metadata,,0,no,,4.0,Web Gallery of Art,1,6.5
+7,https://nnastyamarchenko.github.io/GREEN/,chart section,network,network,,,0,no,,12.0,Scopus;SJR(Scimago Journal Rank),2,10.5
+7,https://nnastyamarchenko.github.io/GREEN/,chart section,bar,stacked bar,stack,,0,no,,3.0,Scopus;SJR(Scimago Journal Rank),2,8.5
+7,https://nnastyamarchenko.github.io/GREEN/,chart section,bar,stacked bar,stack,,0,no,,66.0,Scopus;SJR(Scimago Journal Rank),2,8.5
+8,https://sterenz.github.io/IconoGraph/,chart section,bar,bar,,,0,no,,10.0,Zeri Photo Archive Collection,1,4.5
+8,https://sterenz.github.io/IconoGraph/,chart section,map,map_complex,pin;cluster,zoom,2,no,,9504.0,Zeri Photo Archive Collection,1,12.5
+8,https://sterenz.github.io/IconoGraph/,chart section,card,card_rich,image;metadata,scrollytelling,3,no,,1.0,Iconology Dataset;Zeri Photo Archive Collection,2,9.5
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,bar,grouped bar,multibar,filters,2,no,,60.0,Camera dei deputati,1,8.5
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,hemicycle,hemicycle,,,0,yes,,6109.0,Camera dei deputati,1,5.949999999999999
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,map,map_complex,heatmap,filters,2,yes,,20.0,Camera dei deputati,1,8.75
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,bar,stacked bar,stack;comparison,,0,no,,20.0,Camera dei deputati;Wikipedia,2,10.0
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,bar,stacked bar,stack,,0,yes,,2.0,Camera dei deputati;Wikipedia,2,5.949999999999999
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,bar,stacked bar,stack,filters,2,no,,48.0,Camera dei deputati;Wikidata,2,10.5
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,radar,radar,,filters,2,no,,6.0,Camera dei deputati,1,8.5
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,pie,pie,,,0,no,focus value,31.0,Camera dei deputati,1,4.5
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,table,table,,filters,2,no,,136.0,Camera dei deputati,1,6.5
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,bar,grouped bar,multibar,,0,yes,,4.0,Camera dei deputati,1,4.55
+9,https://giorgimariachiara.github.io/COD/index.html,chart section,pie,pie,comparison,filters,2,yes,,2.0,Camera dei deputati,1,5.6
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,card,card_rich,image;metadata,,0,no,,15.0,Kunsthistorisches Institute Photothek,1,6.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,bar,stacked bar,stack,,0,no,,1.0,Kunsthistorisches Institute Photothek,1,8.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,doughnut,doughnut,,,0,no,focus value,2.0,Kunsthistorisches Institute Photothek,1,4.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,pictogram,pictogram,,,0,no,,9.0,Kunsthistorisches Institute Photothek,1,6.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,bar,stacked bar,stack,,0,no,count,29.0,Kunsthistorisches Institute Photothek,1,8.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,map,map_complex,cluster,zoom,2,no,,3.0,Kunsthistorisches Institute Photothek,1,12.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,bar,bar,,,0,no,count,31.0,Kunsthistorisches Institute Photothek,1,4.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,pictogram,pictogram,,,0,no,count,231.0,Kunsthistorisches Institute Photothek,1,6.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,map,map_complex,cluster,zoom,2,no,,33.0,Kunsthistorisches Institute Photothek,1,12.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,bar,bar,,,0,no,,33.0,Kunsthistorisches Institute Photothek,1,4.5
+10,https://alessandrafa.github.io/buerkel-photos/index.html,chart section,bubble,bubble,,,0,no,,16.0,Kunsthistorisches Institute Photothek,1,6.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,bar,bar,,,0,no,,100.0,IMDb,1,4.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,pie,pie,,on-demand,3,no,,17.0,IMDb,1,7.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,bar,grouped bar,multibar,,0,yes,,17.0,IMDb,1,4.55
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,bar,grouped bar,multibar,,0,no,note,2.0,IMDb,1,6.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,doughnut,doughnut,,,0,yes,,4.0,IMDb,1,3.15
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,table,table,,filters,2,yes,,38.0,IMDb,1,4.55
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,bar,diverging bar,diverging,,0,no,,66.0,IMDb,1,6.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,wordcloud,wordcloud,comparison,,0,no,,,IMDb,1,6.0
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,bar,stacked bar,stack,,0,no,,66.0,IMDb,1,8.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,bar,bar,,,0,no,,66.0,IMDb,1,4.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,pictogram,pictogram,,,0,no,count,154.0,IMDb;Wikidata,2,6.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,pie,pie,,,0,no,,6.0,IMDb;Wikidata,2,4.5
+11,https://ahsanv101.github.io/ProjectGaze/,chart section,bubble,bubble,,zoom,2,no,,40.0,IMDb;Wikidata,2,8.5
+12,https://nft-iness.github.io/New_NFT_Project/,chart section,network,network,comparison,,0,no,,,Etherscan,1,12.0
+12,https://nft-iness.github.io/New_NFT_Project/,chart section,network,network,,,0,yes,,,Etherscan,1,7.35
+12,https://nft-iness.github.io/New_NFT_Project/,chart section,network,network,,,0,no,,,Etherscan,1,10.5
+12,https://nft-iness.github.io/New_NFT_Project/,chart section,scatter,scatter,,,0,no,,,Etherscan,1,6.5
+12,https://nft-iness.github.io/New_NFT_Project/,chart section,bar,bar,comparison,,0,no,,9.0,Etherscan,1,6.0
+12,https://nft-iness.github.io/New_NFT_Project/,chart section,bar,bar,,,0,yes,,9.0,Etherscan,1,3.15
+13,https://infoviz-icd.github.io/Infoviz-ICD/,chart section,map,map_simple,comparison;pin,,0,no,,,dati.beniculturali.it;DBpedia,2,8.0
+13,https://infoviz-icd.github.io/Infoviz-ICD/,chart section,line,line,,,0,yes,,12.0,dati.beniculturali.it,1,4.55
+13,https://infoviz-icd.github.io/Infoviz-ICD/,chart section,bar,bar,comparison,,0,yes,,19.0,dati.beniculturali.it,1,4.199999999999999
+13,https://infoviz-icd.github.io/Infoviz-ICD/,chart section,bar,bar,comparison,,0,yes,,26.0,dati.beniculturali.it,1,4.199999999999999
+13,https://infoviz-icd.github.io/Infoviz-ICD/,chart section,map,map_simple,pin;comparison,zoom,2,yes,,,dati.beniculturali.it;DBpedia,2,7.0
+14,https://safeandsoundinfoviz.github.io/safe_and_sound/,chart section,bar,bar,,,0,no,,7.0,Listening Experience Database,1,4.5
+14,https://safeandsoundinfoviz.github.io/safe_and_sound/,chart section,bubble,bubble,,,0,no,,68.0,Listening Experience Database,1,6.5
+14,https://safeandsoundinfoviz.github.io/safe_and_sound/,chart section,map,map_simple,pin,zoom,2,no,,,Listening Experience Database,1,8.5
+14,https://safeandsoundinfoviz.github.io/safe_and_sound/,chart section,sankey,sankey,,,0,no,,15.0,Listening Experience Database,1,10.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,card,card_rich,image;metadata,filters;on-demand,3,no,,13.0,Zeri Photo Archive Collection,1,9.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,pie,pie,,,0,no,,13.0,Zeri Photo Archive Collection,1,4.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,bar,bar,,,0,yes,,27.0,Zeri Photo Archive Collection,1,3.15
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,map,map_complex,cluster,zoom,2,no,,,Zeri Photo Archive Collection,1,12.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,bar,bar,,,0,no,,14.0,Zeri Photo Archive Collection,1,4.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,bar,stacked bar,stack,,0,no,,23.0,Zeri Photo Archive Collection,1,8.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,map,map_complex,cluster,zoom,2,no,,,Zeri Photo Archive Collection,1,12.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,pie,pie,,,0,no,,3.0,Zeri Photo Archive Collection,1,4.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,bar,stacked bar,stack,,0,yes,,27.0,Zeri Photo Archive Collection,1,5.949999999999999
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,bar,grouped bar,multibar,,0,no,,33.0,Zeri Photo Archive Collection,1,6.5
+15,https://enri-ca.github.io/EPDS_EZ/index.html,chart section,map,map_complex,cluster,,0,no,note,5.0,Zeri Photo Archive Collection,1,10.5
+16,https://manueleveggi.github.io/infoviz/,chart section,card,card_rich,image;metadata,flip,1,no,,3.0,Metropolitan Museum of Art,1,7.5
+16,https://manueleveggi.github.io/infoviz/,chart section,bar,bar,,on-demand,3,no,,12.0,Metropolitan Museum of Art,1,7.5
+16,https://manueleveggi.github.io/infoviz/,chart section,card,card_rich,image;metadata,flip,1,no,,3.0,Metropolitan Museum of Art;Zeri Photo Archive Collection,2,7.5
+16,https://manueleveggi.github.io/infoviz/,chart section,bar,bar,,on-demand,3,no,,12.0,Metropolitan Museum of Art;Zeri Photo Archive Collection,2,7.5
+16,https://manueleveggi.github.io/infoviz/,chart section,line,line,,,0,no,,113.0,Metropolitan Museum of Art;Zeri Photo Archive Collection,2,6.5
+16,https://manueleveggi.github.io/infoviz/,chart section,bar,bar,,,0,no,,4.0,Metropolitan Museum of Art;Zeri Photo Archive Collection,2,4.5
+16,https://manueleveggi.github.io/infoviz/,chart section,card,card_rich,image;metadata,link,1,no,,3.0,Metropolitan Museum of Art;Zeri Photo Archive Collection,2,7.5
+16,https://manueleveggi.github.io/infoviz/,chart section,timeline,timeline_rich,text;image,click;link,1,no,,,Metropolitan Museum of Art;Zeri Photo Archive Collection,2,11.5
+17,https://madrigalis.github.io/index,chart section,pie,pie,,,0,no,,11.0,British Library History of Printed Music;Wikidata,2,4.5
+17,https://madrigalis.github.io/index,chart section,pie,pie,,,0,no,,2.0,British Library History of Printed Music;Wikidata,2,4.5
+17,https://madrigalis.github.io/index,chart section,bar,bar,,,0,no,,10.0,British Library History of Printed Music;Wikidata,2,4.5
+17,https://madrigalis.github.io/index,chart section,bar,bar,,,0,no,,15.0,British Library History of Printed Music,1,4.5
+17,https://madrigalis.github.io/index,chart section,pie,pie,,,0,no,,7.0,British Library History of Printed Music,1,4.5
+17,https://madrigalis.github.io/index,chart section,bar,bar,,,0,no,,10.0,British Library History of Printed Music,1,4.5
+17,https://madrigalis.github.io/index,chart section,map,map_complex,cluster,,0,yes,,35.0,British Library History of Printed Music;Wikidata,2,7.35
+17,https://madrigalis.github.io/index,chart section,map,map_complex,cluster,,0,yes,,13.0,British Library History of Printed Music;Wikidata,2,7.35
+17,https://madrigalis.github.io/index,chart section,pie,pie,comparison,,0,yes,,48.0,British Library History of Printed Music,1,4.199999999999999
+17,https://madrigalis.github.io/index,chart section,wordcloud,wordcloud,,,0,no,,,British Library History of Printed Music,1,4.5
+17,https://madrigalis.github.io/index,chart section,wordcloud,wordcloud,,,0,yes,,,British Library History of Printed Music,1,3.15
+17,https://madrigalis.github.io/index,chart section,line,multiline line,multiline,,0,no,,14.0,British Library History of Printed Music,1,6.5
+17,https://madrigalis.github.io/index,chart section,card,card,image,on-demand,3,no,,,British Library History of Printed Music,1,7.5
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,timeline,timeline,comparison,,0,no,,4.0,MoMA(Museum of Modern Art);Tate Gallery,2,10.0
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,timeline,timeline,comparison,,0,no,note,4.0,MoMA(Museum of Modern Art);Tate Gallery,2,10.0
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,pie,pie,comparison,,0,yes,,6.0,MoMA(Museum of Modern Art);Tate Gallery,2,4.199999999999999
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,wordcloud,wordcloud,comparison,,0,no,,39.0,MoMA(Museum of Modern Art);Tate Gallery;Wikidata,3,6.0
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,map,map_complex,comparison;cluster,on-demand,3,no,,,MoMA(Museum of Modern Art);Tate Gallery,2,15.0
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,bar,bar,,,0,no,,11.0,Tate Gallery,1,4.5
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,line,line,,,0,yes,,11.0,Tate Gallery,1,4.55
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,bar,bar,,,0,no,,8.0,MoMA(Museum of Modern Art),1,4.5
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,line,line,,,0,yes,,8.0,MoMA(Museum of Modern Art),1,4.55
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,bar,stacked bar,stack;comparison,,0,no,,11.0,MoMA(Museum of Modern Art);Tate Gallery;Wikidata,3,10.0
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,bar,stacked bar,stack;comparison,,0,no,,8.0,MoMA(Museum of Modern Art);Tate Gallery,2,10.0
+18,https://fran-cesca.github.io/ArtCut.github.io/,chart section,bar,stacked bar,stack;comparison,,0,no,,11.0,MoMA(Museum of Modern Art);Tate Gallery,2,10.0
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,treemap,treemap,radial,,0,no,,6.0,Netflix;Amazon Prime,2,8.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,bar,bar,,,0,no,,10.0,Netflix;Amazon Prime;Wikidata,3,4.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,pie,pie,,,0,no,,5.0,Netflix;Amazon Prime;Wikidata,3,4.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,area,area,,,0,yes,,13.0,Netflix;Amazon Prime;Wikidata,3,4.55
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,bar,grouped bar,multibar,,0,no,,12.0,Amazon Prime,1,6.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,area,area,,,0,no,,13.0,Netflix,1,6.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,area,area,,,0,no,,15.0,Amazon Prime,1,6.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,area,area,,,0,yes,,12.0,Netflix,1,4.55
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,area,area,,,0,yes,,12.0,Amazon Prime,1,4.55
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,bar,stacked bar,stack,,0,no,,12.0,Amazon Prime;IMDb,2,8.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,bar,stacked bar,stack,,0,no,,12.0,Netflix;IMDb,2,8.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,matrix,matrix,correlation;comparison,,0,yes,,9.0,Netflix;Amazon Prime;IMDb,3,8.399999999999999
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,matrix,matrix,correlation;comparison,,0,yes,,17.0,Netflix;Amazon Prime;IMDb,3,8.399999999999999
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,dumbell,dumbell,comparison,,0,no,,13.0,Netflix;Amazon Prime;Wikidata;IMDb,4,8.0
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,dumbell,dumbell,comparison,,0,yes,,12.0,Netflix;Amazon Prime;Wikidata;IMDb,4,5.6
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,bar,stacked bar,stack,,0,no,,7.0,Netflix;Amazon Prime;IMDb,3,8.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,heatmap,heatmap,,,0,no,,100.0,Netflix;Amazon Prime;IMDb,3,8.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,bar,grouped bar,multibar,,0,no,,20.0,Netflix;Amazon Prime;IMDb,3,6.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,heatmap,heatmap,,,0,yes,,60.0,Netflix;Amazon Prime;IMDb,3,5.949999999999999
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,line,multiline line,multiline,,0,no,,94.0,Netflix;Amazon Prime;IMDb,3,6.5
+19,https://giuliavenditti.github.io/Streamingocracy/,chart section,scatter,scatter,,on-demand,3,yes,,,Netflix;Amazon Prime;IMDb,3,6.6499999999999995
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,doughnut,doughnut,,,0,no,focus value,2.0,Wikidata,1,4.5
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,bar,bar,,,0,no,,26.0,Wikidata,1,4.5
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,bar,bar,,,0,yes,,15.0,Wikidata,1,3.15
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,bar,bar,,,0,yes,,22.0,Wikidata,1,3.15
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,bar,bar,,,0,no,,15.0,Wikidata,1,4.5
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,map,map_complex,heatmap,,0,no,,,Wikidata,1,10.5
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,map,map_complex,heatmap,,0,no,,,Wikidata,1,10.5
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,palette,palette,comparison,,0,no,,10.0,Wikidata,1,4.0
+20,https://valentinacozzi.github.io/portraits_en_nuances/,chart section,palette,palette,image,carousel,3,no,,18.0,Wikidata,1,5.5
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,map,map_complex,cluster,zoom;filters,2,no,,,Dictionary of Art Historians;ARTchives;Wikidata,3,12.5
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,wordcloud,wordcloud,,filters,2,yes,,,Dictionary of Art Historians;ARTchives;Wikidata,3,4.55
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,pictogram,pictogram,,,0,no,focus hover,71.0,Dictionary of Art Historians;ARTchives;Wikidata,3,6.5
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,pictogram,pictogram,,,0,yes,focus hover,82.0,Dictionary of Art Historians;ARTchives;Wikidata,3,4.55
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,bar,bar,,,0,no,,78.0,Dictionary of Art Historians;ARTchives;Wikidata,3,4.5
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,pictogram,pictogram,,,0,no,,2.0,Dictionary of Art Historians;ARTchives;Wikidata,3,6.5
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,pie,pie,,,0,no,,3.0,Dictionary of Art Historians;ARTchives;Wikidata,3,4.5
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,bar,bar,,,0,yes,,12.0,Dictionary of Art Historians;ARTchives;Wikidata,3,3.15
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,area,area,,,0,yes,,3.0,Dictionary of Art Historians;ARTchives;Wikidata,3,4.55
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,bar,radial bar,radial,,0,yes,,5.0,Dictionary of Art Historians;ARTchives;Wikidata,3,4.55
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,bar,bar,,,0,yes,,34.0,Dictionary of Art Historians;ARTchives;Wikidata,3,3.15
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,treemap,treemap,,,0,no,,43.0,Dictionary of Art Historians;ARTchives;Wikidata,3,8.5
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,bar,bar,,time-animation,3,no,,5.0,Dictionary of Art Historians;ARTchives;Wikidata,3,7.5
+21,https://alicebordignon.github.io/ITArtHistorians/index.html,chart section,pie,semi-pie,semi,filters,2,yes,,5.0,Dictionary of Art Historians;ARTchives;Wikidata,3,4.55
+22,https://gravazzini.github.io/womenlens/,chart section,pie,pie,,,0,no,,3.0,Wikidata,1,4.5
+22,https://gravazzini.github.io/womenlens/,chart section,bar,bar,,,0,no,,33.0,Wikidata,1,4.5
+22,https://gravazzini.github.io/womenlens/,chart section,line,multiline line,multiline,filters,2,no,,24.0,Wikidata,1,8.5
+22,https://gravazzini.github.io/womenlens/,chart section,bar,grouped bar,multibar,,0,no,,35.0,Wikidata,1,6.5
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,no,,,Reddit,1,13.5
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,no,,,Reddit,1,11.5
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,yes,,,Reddit,1,9.45
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,yes,,,Reddit,1,9.45
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,no,,,Reddit,1,13.5
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,no,,,Reddit,1,11.5
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,no,,,Reddit,1,13.5
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,yes,,,Reddit,1,9.45
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,yes,,,Reddit,1,9.45
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata,3,yes,,,Reddit,1,9.45
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,no,,,Reddit,1,13.5
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,yes,,,Reddit,1,9.45
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,yes,,,Reddit,1,9.45
+23,https://dbrembilla.github.io/redditholes/,chart section,heatmap,heatmap,,on-demand,3,yes,,,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,network,network,cluster,filters;search;zoom;metadata;on-demand,3,yes,,,Reddit,1,9.45
+23,https://dbrembilla.github.io/redditholes/,chart section,wordcloud,wordcloud,,on-demand,3,yes,,,Reddit,1,5.25
+23,https://dbrembilla.github.io/redditholes/,chart section,bar,stacked bar,stack,on-demand,3,yes,,25.0,Reddit,1,8.049999999999999
+23,https://dbrembilla.github.io/redditholes/,chart section,card,card,image,flip,1,no,,6.0,Reddit,1,5.5
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,timeline,timeline,,,0,no,,5.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,8.5
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,timeline,timeline,,,0,yes,,5.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,5.949999999999999
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,pie,pie,comparison,,0,no,,5.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,6.0
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,pie,semi-pie,comparison;semi,,0,yes,,8.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,4.199999999999999
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,pie,pie,comparison,,0,yes,,5.0,MoMA(Museum of Modern Art),1,4.199999999999999
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,bar,grouped bar,comparison;multibar,,0,yes,,10.0,MoMA(Museum of Modern Art),1,5.6
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,bar,grouped bar,comparison;multibar,,0,yes,,15.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,5.6
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,bubble,bubble,trendline;comparison,,0,no,,,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,9.5
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,card,card_rich,image;metadata,link,1,no,,4.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,7.5
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,map,map_complex,heatmap;comparison,zoom,2,no,,,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,14.0
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,bar,grouped bar,multibar,,0,yes,,4.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,4.55
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,bar,stacked bar,stack,,0,yes,count,46.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,5.949999999999999
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,bar,grouped bar,multibar,,0,yes,,9.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,4.55
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,card,card_rich,image;metadata,link,1,no,,6.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,7.5
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,sankey,sankey,comparison,,0,no,,11.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,12.0
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,bubble,bubble,comparison,,0,yes,,,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,5.6
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,card,card_rich,image;metadata,link;hover,1,no,,9.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,7.5
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,treemap,treemap,,,0,no,,2.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,8.5
+24,https://laurentfintoni.github.io/Net-Art-Rev/,chart section,card,card_rich,image;metadata,link;carousel,3,no,,6.0,MoMA(Museum of Modern Art);Rhizome ArtBase;ULAN,3,9.5
+25,https://sarahtew.github.io/wikigen/,chart section,pie,pie,,,0,no,,4.0,Wikidata,1,4.5
+25,https://sarahtew.github.io/wikigen/,chart section,bar,bar,,,0,no,percentage,2.0,Wikidata,1,4.5
+25,https://sarahtew.github.io/wikigen/,chart section,pictogram,pictogram,,,0,yes,,22.0,Wikidata,1,4.55
+25,https://sarahtew.github.io/wikigen/,chart section,bar,bar,,,0,no,,3.0,Wikidata,1,4.5
+25,https://sarahtew.github.io/wikigen/,chart section,bar,bar,comparison,,0,yes,,20.0,Wikidata,1,4.199999999999999
+25,https://sarahtew.github.io/wikigen/,chart section,bar,grouped bar,multibar,,0,yes,,8.0,Wikidata,1,4.55
+25,https://sarahtew.github.io/wikigen/,chart section,bar,bar,,,0,no,percentage,2.0,Wikidata,1,4.5
+25,https://sarahtew.github.io/wikigen/,chart section,bar,grouped bar,multibar,,0,yes,percentage,16.0,Wikidata,1,4.55
+25,https://sarahtew.github.io/wikigen/,chart section,bar,grouped bar,multibar,,0,yes,percentage,2.0,Wikidata,1,4.55
+26,https://ludovicaerre.github.io/Judith-and-Salom-/,chart section,wordcloud,wordcloud,,animation,3,no,,,Wikidata,1,7.5
+26,https://ludovicaerre.github.io/Judith-and-Salom-/,chart section,map,map_complex,cluster,,0,no,,70.0,Wikidata,1,10.5
+26,https://ludovicaerre.github.io/Judith-and-Salom-/,chart section,line,multiline line,multiline,,0,no,,54.0,Wikidata,1,6.5
+27,https://wieswies.github.io/lifeincolor/,chart section,timeline,timeline,,link,1,no,,7.0,Wikipedia;Van Gogh Museum,2,9.5
+27,https://wieswies.github.io/lifeincolor/,chart section,bar,stacked bar,stack,,0,no,,11.0,Wikipedia,1,8.5
+27,https://wieswies.github.io/lifeincolor/,chart section,bar,bar,,,0,no,,10.0,Wikipedia,1,4.5
+27,https://wieswies.github.io/lifeincolor/,chart section,map,map_complex,cluster,,0,no,note,17.0,Wikipedia,1,10.5
+27,https://wieswies.github.io/lifeincolor/,chart section,palette,palette,,,0,no,,9.0,Wikipedia,1,2.5
+27,https://wieswies.github.io/lifeincolor/,chart section,card,card_rich,image;metadata,scrollytelling,3,yes,,9.0,Wikipedia,1,6.6499999999999995
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,map,map_complex,cluster,zoom,2,no,,,Zeri Photo Archive Collection;GeoNames,2,12.5
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,doughnut,semi-doughnut,semi,,0,no,focus value,10.0,Zeri Photo Archive Collection,1,4.5
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,pie,pie,,,0,no,,10.0,Zeri Photo Archive Collection,1,4.5
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,pie,pie,,,0,yes,,10.0,Zeri Photo Archive Collection,1,3.15
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,doughnut,doughnut,nested,,0,yes,,20.0,Zeri Photo Archive Collection,1,3.15
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,map,map_simple,pin,,0,yes,,13.0,Zeri Photo Archive Collection;GeoNames,2,4.55
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,bar,bar,,broken-y,2,no,,20.0,Zeri Photo Archive Collection,1,6.5
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,bar,bar,,broken-y,2,yes,,20.0,Zeri Photo Archive Collection,1,4.55
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,bar,grouped bar,multibar,,0,yes,,8.0,Zeri Photo Archive Collection,1,4.55
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,chord,chord,,,0,no,,14.0,Zeri Photo Archive Collection,1,10.5
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,card,card_rich,image;metadata,hover,1,no,,3.0,Zeri Photo Archive Collection,1,7.5
+28,https://elisasilvad.github.io/the_journey_of_art/,chart section,map,map_complex,pin;trajectory,zoom;animation;on-demand,3,no,,,Zeri Photo Archive Collection;GeoNames,2,13.5
+29,https://aschimmenti.github.io/humansOfZeriPhotoArchive,chart section,bar,bar,,broken-y,2,no,,11.0,Zeri Photo Archive Collectio;Wikidata,2,6.5
+29,https://aschimmenti.github.io/humansOfZeriPhotoArchive,chart section,pie,pie,,,0,no,,3.0,Zeri Photo Archive Collectio;Wikidata,2,4.5
+29,https://aschimmenti.github.io/humansOfZeriPhotoArchive,chart section,card,card_rich,image;metadata,carousel,3,no,,6.0,Zeri Photo Archive Collectio;Wikidata,2,9.5
+29,https://aschimmenti.github.io/humansOfZeriPhotoArchive,chart section,map,map_complex,globe;cluster,zoom,2,no,,15.0,Zeri Photo Archive Collectio;Wikidata,2,12.5
+29,https://aschimmenti.github.io/humansOfZeriPhotoArchive,chart section,network,network,,,0,no,,,Zeri Photo Archive Collectio;Wikidata,2,10.5
+29,https://aschimmenti.github.io/humansOfZeriPhotoArchive,chart section,map,map_complex,cluster,,0,yes,,5.0,Zeri Photo Archive Collectio;Wikidata,2,7.35
+29,https://aschimmenti.github.io/humansOfZeriPhotoArchive,chart section,network,network,bubble,,0,no,,13.0,Zeri Photo Archive Collectio;Wikidata,2,10.5
+30,https://geostory-artelling.github.io/geostory/,chart section,map,map_complex,cluster,zoom,2,no,,21.0,ARTchives;Wikidata,2,12.5
+30,https://geostory-artelling.github.io/geostory/,chart section,pie,pie,,,0,yes,,6.0,ARTchives;Wikidata,2,3.15
+30,https://geostory-artelling.github.io/geostory/,chart section,dot,dot,,,0,no,,74.0,ARTchives;Wikidata,2,6.5
+30,https://geostory-artelling.github.io/geostory/,chart section,pie,pie,,,0,no,,22.0,ARTchives;Wikidata,2,4.5
+30,https://geostory-artelling.github.io/geostory/,chart section,bar,stacked bar,stack,,0,yes,,6.0,ARTchives;Wikidata,2,5.949999999999999
+30,https://geostory-artelling.github.io/geostory/,chart section,map,map_complex,trajectory,zoom;filters;scrollytelling,3,no,,,ARTchives;Wikidata,2,13.5
+30,https://geostory-artelling.github.io/geostory/,chart section,pie,pie,,,0,yes,,2.0,ARTchives;Wikidata,2,3.15
+30,https://geostory-artelling.github.io/geostory/,chart section,card,card,image,link,1,yes,,5.0,ARTchives;Wikidata,2,3.8499999999999996
+30,https://geostory-artelling.github.io/geostory/,chart section,dot,dot,,,0,yes,,125.0,ARTchives;Wikidata,2,4.55
+30,https://geostory-artelling.github.io/geostory/,chart section,bar,stacked bar,stack,,0,yes,,23.0,ARTchives;Wikidata,2,5.949999999999999
+30,https://geostory-artelling.github.io/geostory/,chart section,dot,dot,,,0,yes,,74.0,ARTchives;Wikidata,2,4.55
+31,https://martrioska.github.io/,chart section,pictogram,pictogram,,,0,no,,100.0,Wikidata,1,6.5
+31,https://martrioska.github.io/,chart section,pictogram,pictogram,,animation,3,yes,,3.0,Wikidata,1,6.6499999999999995
+31,https://martrioska.github.io/,chart section,map,map_complex,heatmap,zoom,2,no,,,Wikidata,1,12.5
+31,https://martrioska.github.io/,chart section,pie,pie,,on-demand,3,yes,,2.0,Wikidata,1,5.25
+31,https://martrioska.github.io/,chart section,bar,bar,comparison,,0,no,,10.0,Wikidata,1,6.0
+31,https://martrioska.github.io/,chart section,doughnut,doughnut,nested,filters,2,no,,4.0,Wikidata,1,6.5
+31,https://martrioska.github.io/,chart section,bar,stacked bar,stack,view-change,2,no,,11.0,Wikidata,1,10.5
+31,https://martrioska.github.io/,chart section,bar,stacked bar,stack,view-change,2,no,,11.0,Wikidata,1,10.5
+31,https://martrioska.github.io/,chart section,pictogram,pictogram,,,0,no,,26.0,Wikidata;ARTchives,2,6.5
+31,https://martrioska.github.io/,chart section,card,card_rich,image;metadata,,0,no,,10.0,Wikidata;ARTchives,2,6.5
+32,https://humboldtproject.github.io/Epds/index,chart section,doughnut,doughnut,,,0,no,,11.0,Wikidata;ARTchives,2,4.5
+32,https://humboldtproject.github.io/Epds/index,chart section,table,table,,,0,no,,4.0,Wikidata;ARTchives,2,4.5
+32,https://humboldtproject.github.io/Epds/index,chart section,doughnut,doughnut,,,0,yes,,31.0,Wikidata;ARTchives,2,3.15
+32,https://humboldtproject.github.io/Epds/index,chart section,card,card,image,carousel;find-more,3,no,,8.0,Wikidata;ARTchives,2,7.5
+32,https://humboldtproject.github.io/Epds/index,chart section,table,table,,on-demand,3,yes,,,Wikidata;ARTchives,2,5.25
+32,https://humboldtproject.github.io/Epds/index,chart section,gantt,gantt,,,0,yes,,7.0,Wikidata;ARTchives,2,5.949999999999999
+32,https://humboldtproject.github.io/Epds/index,chart section,timeline,timeline_rich,image;text,pagination;on-demand,3,no,,8.0,Wikidata;ARTchives,2,13.5
+32,https://humboldtproject.github.io/Epds/index,chart section,bar,stacked bar,stack,,0,no,,7.0,Wikidata;ARTchives,2,8.5
+32,https://humboldtproject.github.io/Epds/index,chart section,bar,radial bar,radial,,0,yes,,7.0,Wikidata;ARTchives,2,4.55
+32,https://humboldtproject.github.io/Epds/index,chart section,network,network,,,0,no,,7.0,Wikidata;ARTchives,2,10.5
+32,https://humboldtproject.github.io/Epds/index,chart section,chart-report,chart-report,,on-demand,3,yes,,,Wikidata;ARTchives,2,8.049999999999999
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,line,line,,,0,no,,140.0,ARTchives;Wikidata;WordlCat Identities,3,6.5
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,bar,bar,,,0,no,,15.0,ARTchives;Wikidata;WordlCat Identities,3,4.5
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,heatmap,heatmap,,,0,no,,375.0,ARTchives;Wikidata;WordlCat Identities,3,8.5
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,pie,pie,,,0,no,,3.0,ARTchives;Wikidata;SNAC(Social Networks and Archival Context);WordlCat Identities,4,4.5
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,bar,bar,,filters;on-demand,3,yes,,3.0,ARTchives;Wikidata;SNAC(Social Networks and Archival Context);WordlCat Identities,4,5.25
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,bar,bar,,on-demand,3,no,,12.0,ARTchives;Wikidata;SNAC(Social Networks and Archival Context);WordlCat Identities,4,7.5
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,bar,bar,,on-demand,3,no,,3.0,ARTchives;Wikidata;SNAC(Social Networks and Archival Context);WordlCat Identities,4,7.5
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,bar,bar,,,0,yes,,28.0,ARTchives;Wikidata;SNAC(Social Networks and Archival Context);WordlCat Identities,4,3.15
+33,https://digitalstory33.github.io/RENAIScience/index.html,chart section,treemap,treemap,,,0,yes,,40.0,ARTchives;Wikidata;SNAC(Social Networks and Archival Context);WordlCat Identities,4,5.949999999999999
