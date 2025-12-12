@@ -9,11 +9,11 @@
 2,https://nicoleliggeri.github.io/Italy-in-Magazienes/,chart section,line,multiline line,multiline,filters,2,yes,,110.0,CIRCE(Catalogo Informatico Riviste Culturali Europee);ACNP(Archivio collettivo nazionale dei periodici);Wikidata,3,5.949999999999999
 2,https://nicoleliggeri.github.io/Italy-in-Magazienes/,chart section,pie,pie,,,0,no,,2.0,CIRCE(Catalogo Informatico Riviste Culturali Europee);ACNP(Archivio collettivo nazionale dei periodici);Wikidata,3,4.5
 2,https://nicoleliggeri.github.io/Italy-in-Magazienes/,chart section,line,line,,,0,no,,110.0,CIRCE(Catalogo Informatico Riviste Culturali Europee);ACNP(Archivio collettivo nazionale dei periodici);Wikidata,3,6.5
-3,https://alicepicco333.github.io/culture4all/,chart section,map,map_complex,heatmap,,0,no,,5000.0,Luoghi della cultura,1,10.5
-3,https://alicepicco333.github.io/culture4all/,chart section,pie,pie,,filters,2,no,,8.0,Luoghi della cultura,1,6.5
-3,https://alicepicco333.github.io/culture4all/,chart section,map,map_simple,pin,filters;zoom,2,no,,200.0,Luoghi della cultura,1,8.5
-3,https://alicepicco333.github.io/culture4all/,chart section,bar,bar,,filters,2,no,,20.0,Luoghi della cultura,1,6.5
-3,https://alicepicco333.github.io/culture4all/,chart section,line,multiline line,multiline,filters,2,no,,25.0,Luoghi della cultura,1,8.5
+3,https://alicepicco333.github.io/culture4all/,chart section,map,map_complex,heatmap,,0,no,,5000.0,Luoghi della cultura ,1,10.5
+3,https://alicepicco333.github.io/culture4all/,chart section,pie,pie,,filters,2,no,,8.0,Luoghi della cultura ,1,6.5
+3,https://alicepicco333.github.io/culture4all/,chart section,map,map_simple,pin,filters;zoom,2,no,,200.0,Luoghi della cultura ,1,8.5
+3,https://alicepicco333.github.io/culture4all/,chart section,bar,bar,,filters,2,no,,20.0,Luoghi della cultura ,1,6.5
+3,https://alicepicco333.github.io/culture4all/,chart section,line,multiline line,multiline,filters,2,no,,25.0,Luoghi della cultura ,1,8.5
 4,https://falaimo99.github.io/infoviz/website/index.html,chart section,bar,bar,,,0,no,,10.0,Wikidata,1,4.5
 4,https://falaimo99.github.io/infoviz/website/index.html,chart section,line,multiline line,multiline,filters,2,no,,45.0,Wikidata,1,8.5
 4,https://falaimo99.github.io/infoviz/website/index.html,chart section,pie,pie,,filters,2,yes,,6.0,Wikidata,1,4.55
